@@ -185,12 +185,6 @@ The board evaluator scores positions using a weighted combination of:
 
 ---
 
-## 📸 Screenshots
-
-*Coming soon — run the game to see the GUI in action!*
-
----
-
 ## 📝 License
 
 This project is open source. Feel free to use, modify, and distribute.
